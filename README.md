@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henry
-- 👀 I’m interested in learning web dev
+- 👀 I’m interested in learning full stack dev
 - 🌱 I’m currently learning Django and Python
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me: henri.morgan@outlook.be
